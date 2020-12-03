@@ -73,7 +73,7 @@
 
             </div>
         </div>
-        /*<script type="text/javascript" src="/js/papelera.js"></script>*/
+        <script type="text/javascript" src="/js/papelera.js"></script>
         <script src="js/app.js"></script>
     </body>
 </html>
